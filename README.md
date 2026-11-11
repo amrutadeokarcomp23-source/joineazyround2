@@ -2,7 +2,7 @@
 
 Joineazy is a responsive student and professor workspace for courses, assignment briefs, group coordination, and submission tracking. It builds on the supplied Round 1 React + Vite + Tailwind project and uses a localStorage mock API so the demo works without a server.
 
-Live video: https://submitly-assignment-dashboard.vercel.app/
+Live video: https://submitly-assignment-dashboard.vercel.app/ #
 Demo video: https://drive.google.com/file/d/1cW4ImA9eo37O2F8FTeE9-5O67oSSz7_h/view?usp=drive_link
 
 
